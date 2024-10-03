@@ -1,6 +1,11 @@
 # Foundry Template Using Openzeppelin
 Please note this template using blockscout platform.
 
+## Install Openzeppelin Packages
+```bash
+forge install Openzeppelin/openzeppelin-contracts
+```
+
 ## Deploying Smart Contract
 ```
 forge create ./src/Contract.sol:MyToken\
