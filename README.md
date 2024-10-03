@@ -1,1 +1,1 @@
-# eljez-foundry-template
+# Just a Simple Template
